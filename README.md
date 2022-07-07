@@ -6,7 +6,7 @@ I'm a student at Adam Mickiewicz University and a Junior DevOps Engineer.
 
 In my job I mostly work with private cloud, containers and monitoring.
 
-In my free time I try to learn Go and public cloud (AWS).
+In my free time I try to learn Go and public cloud (AWS, Azure).
 
 [![Linkedin](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawel-rostecki/) 
 
@@ -15,7 +15,7 @@ In my free time I try to learn Go and public cloud (AWS).
 #### What I work with daily
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-0E353D?style=flat-square&logo=GNU%20Bash&logoColor=white)
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat-square&logo=Red%20Hat%20Open%20Shift&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-282828?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat-square&logo=Red%20Hat%20Open%20Shift&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-282828?style=flat-square&logo=git) ![Nagios](https://img.shields.io/badge/-Nagios-333333?style=flat-square)
 
 #### What I work with occasionally
 
@@ -23,7 +23,7 @@ In my free time I try to learn Go and public cloud (AWS).
 
 #### What I learn on my own
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=Microsoft%20Azure&logoColor=white)
 
 #### Coding setup
 
