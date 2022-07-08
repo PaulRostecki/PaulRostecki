@@ -6,7 +6,7 @@ I'm a student at Adam Mickiewicz University and a Junior DevOps Engineer.
 
 In my job I mostly work with private cloud, containers and monitoring.
 
-In my free time I try to learn Go and public cloud (AWS, Azure).
+In my free time I'm learning Go and public cloud (AWS, Azure).
 
 [![Linkedin](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawel-rostecki/) 
 
