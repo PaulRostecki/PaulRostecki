@@ -4,7 +4,7 @@
 
 I'm a DevOps Engineer and a Master's student at WSB Merito University Poznań.
 
-At my job I mostly work with private cloud, containers and CI/CD.
+At my job I mostly work with cloud, containers and CI/CD.
 
 [![Linkedin](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawel-rostecki/) [![Website](https://img.shields.io/badge/-My%20Website-3366CC?style=flat-square&logo=htmx&logoColor=white)](https://paulrostecki.github.io/)
 
@@ -15,7 +15,7 @@ At my job I mostly work with private cloud, containers and CI/CD.
 
 #### What I work with occasionally
 
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white) ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat-square&logo=IBM%20Cloud&logoColor=white) ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-DA291C?style=flat-square&logo=Argo&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=Helm&logoColor=white) 
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white) ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat-square&logo=IBM%20Cloud&logoColor=white) ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-DA291C?style=flat-square&logo=Argo&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=Helm&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white) 
 
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white) ![Oracle Database](https://img.shields.io/badge/-Oracle%20Database-F80000?style=flat-square&logo=Oracle&logoColor=white)
 
