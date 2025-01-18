@@ -10,10 +10,10 @@ At my job I mostly work with cloud, containers and CI/CD.
 
 ## Technologies and tools
 
-#### What I work with daily
+#### What I work with daily (and most proficiently)
 ![Bash](https://img.shields.io/badge/-Bash-0E353D?style=flat-square&logo=GNU%20Bash&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-282828?style=flat-square&logo=git)
 
-#### What I work with occasionally
+#### What I also work with
 
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white) ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat-square&logo=IBM%20Cloud&logoColor=white) ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-DA291C?style=flat-square&logo=Argo&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=Helm&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white) 
 
@@ -25,6 +25,6 @@ At my job I mostly work with cloud, containers and CI/CD.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat-square&logo=Red%20Hat%20Open%20Shift&logoColor=white) ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white) ![OpenStack](https://img.shields.io/badge/-OpenStack-ED1944?style=flat-square&logo=OpenStack&logoColor=white) ![Nagios](https://img.shields.io/badge/-Nagios-333333?style=flat-square) 
 
-#### Coding setup
+#### What distros I usually use
 
-![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white) ![SLES](https://img.shields.io/badge/-SUSE%20Enterprise%20Linux-73BA25?style=flat-square&logo=SUSE&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
